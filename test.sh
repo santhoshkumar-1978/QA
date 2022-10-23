@@ -1,5 +1,5 @@
 #!/bin/bash
 # A simple variable example
 greeting=Hello
-name=Tux
+name=san
 echo $greeting $name
