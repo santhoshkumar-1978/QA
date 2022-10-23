@@ -1,3 +1,5 @@
-#!/bin/sh
-NAME ="Besanta"
-echo $NAME
+#!/bin/bash
+# A simple variable example
+greeting=Hello
+name=Tux
+echo $greeting $name
